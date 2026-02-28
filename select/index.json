@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "氷少女と陥落街",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-02-28T12:36:00.018086Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "氷少女と陥落街",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_氷少女と陥落街_HIMEHINA.txt"
+    }
+  ]
+}
